@@ -9,7 +9,7 @@
   <tr>
     <td>읽은 책</td>
     <td>
-      <a href="(https://www.yes24.com/Product/Goods/19040233)">자바 ORM 표준 JPA 프로그래밍 </a>
+      <a href="https://www.yes24.com/Product/Goods/19040233">자바 ORM 표준 JPA 프로그래밍 </a>
     </td>
   </tr>
   <tr>
