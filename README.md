@@ -49,7 +49,7 @@
 
 |   주차    | 주제 |
 |:-------:|:-------:|
-| 1주차 | [주제-이린.md]() </br> |
+| 1주차 | [기본키 매핑 전략.md](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week1/1%EC%A3%BC%EC%B0%A8%3A%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91%20%EC%A0%84%EB%9E%B5) </br> |
 | 2주차 | [1장. ]() |
 | 3주차 | [1장. ]() |
 | 4주차 | [1장. ]() |
