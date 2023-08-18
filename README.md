@@ -48,8 +48,8 @@
 <br>
 
 |   주차    | 주제 |
-|:-------:|:-------:|
-| 1주차 | [기본키 매핑 전략](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week1/1%EC%A3%BC%EC%B0%A8%3A%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91%20%EC%A0%84%EB%9E%B5) </br> |
+|:-------:|:-------|
+| 1주차 | [기본키 매핑 전략](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week1/1%EC%A3%BC%EC%B0%A8%3A%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91%20%EC%A0%84%EB%9E%B5) </br> [기본키 매핑 전략의 잡다한 것들](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/33cd49b23875cd67f2d5540d371c98c5a10b1046/week1/1%EC%A3%BC%EC%B0%A8%3A%20%EA%B8%B0%EB%B3%B8%ED%82%A4%20%EB%A7%A4%ED%95%91%20%EC%A0%84%EB%9E%B5%EC%9D%98%20%EC%9E%A1%EB%8B%A4%ED%95%9C%20%EA%B2%83%EB%93%A4.md) </br> |
 | 2주차 | [일대다 페치 조인](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week2/2%EC%A3%BC%EC%B0%A8%3A%EC%9D%BC%EB%8C%80%EB%8B%A4%20%ED%8E%98%EC%B9%98%20%EC%A1%B0%EC%9D%B8.md) |
 | 3주차 | [1장. ]() |
 | 4주차 | [1장. ]() |
