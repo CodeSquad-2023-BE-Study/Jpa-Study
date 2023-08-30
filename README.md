@@ -54,5 +54,5 @@
 | 3주차 | [일대다 페치 조인](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week2/2%EC%A3%BC%EC%B0%A8%3A%EC%9D%BC%EB%8C%80%EB%8B%A4%20%ED%8E%98%EC%B9%98%20%EC%A1%B0%EC%9D%B8.md) </br> [JPA_연관관계_매핑_다대일](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week3/JPA_%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84_%EB%A7%A4%ED%95%91_%EB%8B%A4%EB%8C%80%EC%9D%BC.md) |
 | 4주차 | [JPA_일대일](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week4/JPA_%EC%9D%BC%EB%8C%80%EC%9D%BC.md)  </br> [식별관계매핑_Cascade.](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week4/%EC%8B%9D%EB%B3%84%EA%B4%80%EA%B3%84%EB%A7%A4%ED%95%91_Cascade.md)|
 | 5주차 | [JPA_Hibernate_Proxy](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week5/JPA_Hibernate_Proxy.md) </br> |
-| 6주차 | [1장. ]() |
+| 6주차 | [SpringDataJpa](https://github.com/CodeSquad-2023-BE-Study/Jpa-Study/blob/main/week6/SpringDataJpa.md) |
 | 7주차 | [1장. ]() |
